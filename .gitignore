@@ -1,0 +1,58 @@
+# ==============================
+# Keil MDK-ARM Build Outputs
+# ==============================
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.dep
+*.htm
+*.build_log.htm
+*.crf
+*.elf
+*.bin
+*.lib
+*.iex
+*.fed
+*.ini
+
+# Keil MDK-ARM — IDE user state (do not share)
+*.uvguix.*
+*.uvoptx
+*.scvd
+
+# J-Link debug settings (user/machine specific)
+JLinkSettings.ini
+
+# Keil RTE (Runtime Environment, auto-generated)
+RTE/
+
+# ==============================
+# STM32CubeMX Generated Metadata
+# ==============================
+.mxproject
+
+# ==============================
+# IDE / Editor
+# ==============================
+
+# Visual Studio Code
+.vscode/
+
+# ==============================
+# OS Generated
+# ==============================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==============================
+# Backup & Temp Files
+# ==============================
+*.bak
+*.tmp
+*~
+*.swp
